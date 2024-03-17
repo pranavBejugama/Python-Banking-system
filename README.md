@@ -1,0 +1,1 @@
+This is code for a future banking system project. I've started an effort to learn the Python needed for a website's back end. By the end of this year, I want to have a completely functional website through the integration of Flask into this project. I will be updating it my changes.
